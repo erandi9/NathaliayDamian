@@ -102,7 +102,7 @@ hr:not([size]) {
 }
 
 #ubicacion{
-  padding-top: 7%;
+  padding-top: 60px;
   font-size: larger;
   
 }
@@ -2449,7 +2449,7 @@ textarea.form-control-lg {
 }
 
 .save{
-  padding-top: 5%;
+  padding-top: 60px;
   padding-bottom: 2%;
 }
 
@@ -11390,9 +11390,10 @@ header.masthead h1, header.masthead .h1 {
 }
 
 .testimonials {
-  padding-top: 7rem;
+  padding-top: 60px;
   padding-bottom: 7rem;
 }
+
 .testimonials .testimonial-item {
   max-width: 18rem;
 }
